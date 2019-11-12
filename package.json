@@ -5,6 +5,15 @@
   "main": "index.js",
   "typings": "index.d.ts",
   "license": "MIT",
+  "author": "Rauli Laine <rauli.laine@iki.fi> (https://rauli.dev/)",
+  "homepage": "https://github.com/RauliL/reitintin",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RauliL/reitintin"
+  },
+  "bugs": {
+    "url": "https://github.com/RauliL/reitintin/issues"
+  },
   "scripts": {
     "build": "rollup -c",
     "prepack": "yarn run build"
