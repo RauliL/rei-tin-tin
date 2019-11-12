@@ -1,0 +1,6 @@
+*.log
+*.tgz
+/index.d.ts
+/index.iife.js
+/index.js
+/node_modules

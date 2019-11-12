@@ -1,0 +1,7 @@
+*.log
+*.tgz
+/.editorconfig
+/example.html
+/index.ts
+/node_modules
+/rollup.config.js

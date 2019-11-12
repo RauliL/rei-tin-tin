@@ -1,0 +1,21 @@
+{
+  "name": "reitintin",
+  "version": "0.1.0",
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "license": "MIT",
+  "scripts": {
+    "build": "rollup -c",
+    "prepack": "yarn run build"
+  },
+  "devDependencies": {
+    "rollup": "^1.27.0",
+    "rollup-plugin-node-resolve": "^5.2.0",
+    "rollup-plugin-typescript2": "^0.25.2",
+    "typescript": "^3.7.2",
+    "yarn": "^1.19.1"
+  },
+  "dependencies": {
+    "path-to-regexp": "^5.0.0"
+  }
+}
