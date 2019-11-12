@@ -1,6 +1,7 @@
 {
   "name": "reitintin",
   "version": "0.1.0",
+  "description": "Minimalistic router for single-page applications",
   "main": "index.js",
   "typings": "index.d.ts",
   "license": "MIT",
