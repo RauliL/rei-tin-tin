@@ -19,7 +19,7 @@
     "prepack": "yarn run build"
   },
   "devDependencies": {
-    "rollup": "^1.27.0",
+    "rollup": "^2.79.2",
     "rollup-plugin-node-resolve": "^5.2.0",
     "rollup-plugin-typescript2": "^0.25.2",
     "typescript": "^3.7.2",
